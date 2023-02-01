@@ -1,0 +1,17 @@
+[
+	{
+	"email":"gratul7@gmail.com",
+	"password":"RatulTest@1",
+	"ProductName":"ADIDAS ORIGINAL"
+	},
+	{
+	"password":"RatulTest@1",
+	"email":"gratul7@gmail.com",
+	"ProductName":"ZARA COAT 3"
+	},
+	{
+	"email":"testR@mailinator.com",
+	"password":"Test@123",
+	"ProductName":"ZARA COAT 3"
+	}
+]
