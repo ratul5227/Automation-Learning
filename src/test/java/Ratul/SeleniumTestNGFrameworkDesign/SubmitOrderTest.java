@@ -34,7 +34,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SubmitOrderTest extends BaseTest {
 	String ProductName = "ADIDAS ORIGINAL";
-	
+	String Prod = "test";
 	@Test(dataProvider= "getData" , groups = {"Purchase"})
 	public void SubmitOrder(HashMap<String,String> input ) throws InterruptedException, IOException {
 		
